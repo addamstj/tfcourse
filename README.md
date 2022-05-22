@@ -1,4 +1,4 @@
-**HashiCorp Certified: Terraform Associate Prep Course 2021**
+**HashiCorp Certified: Terraform Associate Prep Course 2022**
 
 What you will learn: 
 - Terraform
